@@ -32,22 +32,21 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  {
   "timeZone": "en-US",
+  "skipInvalidProxy": false,
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
   "isBetting": true,
   "isDoTasks": true,
   "isPlayGames": true,
-  "referralCode": "6713068747", - Your telegram ID, do not change it if you want to help me ^^
+  "referralCode": "6713068747",
   "isUpgradeBoost": true,
   "howManyMultitapUpgradeYouWant": 20,
   "howManyTapPoolUpgradeYouWant": 20,
   "howManyBetSizeUgradeYouWant": 20
 }
 
-}
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
