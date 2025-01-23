@@ -88,6 +88,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "bettor whale-main/bettor whale"; node bot`
+> To run the bot, use the following command: `cd "bettor whale-main/bettor whale"; node meomundep`
 
 🎇Enjoy!
